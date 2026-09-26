@@ -23,5 +23,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "week2"
-include(":app")
- 
+include(":soal1")
+include(":soal2")
